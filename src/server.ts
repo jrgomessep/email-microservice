@@ -1,1 +1,1 @@
-console.log("Hello World");
+import 'infra/providers/kafka/consumers'
