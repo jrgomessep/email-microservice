@@ -1,1 +1,1 @@
-import './send-mail.consumer'
+export { sendEmailConsumer } from './send-mail.consumer';
